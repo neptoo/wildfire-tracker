@@ -29,5 +29,5 @@ npm start
 - Import fire-alert icon
 - Click and show info box
 
-[中文版详细笔记]()
+[中文版详细笔记](notes.md)
 
