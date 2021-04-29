@@ -31,3 +31,5 @@ npm start
 
 [中文版详细笔记](notes.md)
 
+![FinalEffect](pre.png)
+
